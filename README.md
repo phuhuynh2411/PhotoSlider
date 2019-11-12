@@ -8,10 +8,10 @@
 ## Usage
 Create an array of UI Images
 ```swift
-impolet images: [UIImage] = [UIImage(named: "image1")!,
+images: [UIImage] = [UIImage(named: "image1")!,
                                  UIImage(named: "image2")!,
                                  UIImage(named: "image3")!,
-                                 UIImage(named: "image4")!]rt Project
+                                 UIImage(named: "image4")!]
 ```
 
 Select one of the following option
