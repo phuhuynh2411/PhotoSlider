@@ -1,5 +1,6 @@
 # PhotoSlider
-![](Nov-12-2019 15-48-54.gif)
+![](https://github.com/phuhuynh2411/PhotoSlider/blob/master/Nov-12-2019%2015-48-54.gif)
+
 ## Features
 - Create a photo slider with predefined images
 - After reaching the last image, it should not stop and goes to the first image.
